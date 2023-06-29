@@ -1,0 +1,9 @@
+git clone https://github.com/Nessmakandil/alx-pre_course.git
+echo 'My first readme' > README.md   
+git config --global user.email "nessmakandil137@gmail.com.com"
+git config --global user.name "NessmaKandil"
+git add .
+git commit -m 'My first commit'
+git push origin main
+url =https://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@github.com/Nessmakandil/alx-pre_course.git
+token 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
